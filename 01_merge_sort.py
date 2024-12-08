@@ -38,3 +38,4 @@ arr = [15, 78, 65, 23, 41, 12, 7, 36]
 print("Before sorted: ", arr)
 sorted_array = merge_sort(arr)
 print("After sorted: ", sorted_array)
+# O(n log n)
